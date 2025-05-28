@@ -1,0 +1,4 @@
+eva: Diffusion_reaction2_2D_eva
+problem_index: 2_2D
+problem_name: Diffusion_reaction
+sol: "e**(\u22123*t)*sin(x1)+e**(\u22123*t)*sin(x2)"

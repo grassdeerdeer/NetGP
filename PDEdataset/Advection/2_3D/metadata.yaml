@@ -1,0 +1,4 @@
+eva: Advection2_3D_eva
+problem_index: 2_3D
+problem_name: Advection
+sol: sin(x1-t)+sin(x2-t)+sin(x3-t)

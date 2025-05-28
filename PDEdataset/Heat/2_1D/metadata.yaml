@@ -1,0 +1,4 @@
+eva: Heat2_1D_eva
+problem_index: 2_1D
+problem_name: Heat
+sol: 1/(4*pi*t)**(1/2)*exp(-x1^2/(4*t))

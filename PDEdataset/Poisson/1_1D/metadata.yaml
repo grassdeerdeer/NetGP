@@ -1,0 +1,4 @@
+eva: Poisson1_1D_eva
+problem_index: 1_1D
+problem_name: Poisson
+sol: sin(3.14*x1)

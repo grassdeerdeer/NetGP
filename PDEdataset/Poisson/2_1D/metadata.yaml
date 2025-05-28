@@ -1,0 +1,4 @@
+eva: Poisson2_1D_eva
+problem_index: 2_1D
+problem_name: Poisson
+sol: (1-x1**2)/2

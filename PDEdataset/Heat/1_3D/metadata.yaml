@@ -1,0 +1,4 @@
+eva: Heat1_3D_eva
+problem_index: 1_3D
+problem_name: Heat
+sol: 1/(4*pi*alpha*t)**(3/2)*exp(-x1^2/(4*alpha*t))*exp(-x2^2/(4*alpha*t))*exp(-x3^2/(4*alpha*t))

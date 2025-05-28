@@ -1,0 +1,4 @@
+eva: Wave1_1D_eva
+problem_index: 1_1D
+problem_name: Wave
+sol: sin(3*x1+3*t)
